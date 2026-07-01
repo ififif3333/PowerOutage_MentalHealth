@@ -892,7 +892,7 @@ esttab model_raw_count using "replication_outputs/TableS14_raw_count.rtf", repla
 
 
 *=============================================================================
-* TABLE S15 (NEW, iScience revision): Outage effect under each extreme-heat
+* TABLE S15: Outage effect under each extreme-heat
 * threshold (P75/P90/P95) within the same specification
 * Columns (1)-(3): Model 3 controls; columns (4)-(6): Model 5 controls.
 * Column (1) = manuscript Model 4; (2) = Model 3; (6) = Model 5.
